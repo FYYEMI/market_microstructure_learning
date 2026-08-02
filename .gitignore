@@ -1,0 +1,18 @@
+# files
+*.parquet
+*.csv
+
+
+# folders
+data/
+
+
+# cache 
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+tmp/
+temp/
+cache/
